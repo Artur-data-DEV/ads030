@@ -1,6 +1,6 @@
 # Prática 2
 
-1. Criar um fork do repositório [Aluno Online](https://github.com/profjosereginaldo/aluno-online). Clonar o repositório forkado para sua estação de trabalho.
+1. Clonar o repositório forkado do Aluno Online para sua estação de trabalho.
 
 2. Tomar posse de uma issue do tipo bug e movê-la para a aba In Progress do kanban. Criar uma ramificação hotfix/n°_da_issue# a partir da master para corrigir o bug.
 
